@@ -4,6 +4,9 @@ package cn.tedu.asserts;
  *   有固定数量的内容时，可以使用枚举
  *   枚举是JDK1.5的特性
  *   枚举在java中本质上是一个类
+ *   
+ *   枚举的应用场景：
+ *   数据库的状态 可以定义为枚举
  */
 public class EnumDemo {
 	public static void main(String[] args) {
